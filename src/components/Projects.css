@@ -1,0 +1,39 @@
+.projects-container {
+    /* border: 2px solid purple; */
+    display: flex;
+    flex-direction: column;
+    height: 92vh;
+    margin: 0 10%;
+    margin-bottom: 8vh;
+}
+.projects{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    /* border: 1px solid red; */
+    flex-wrap: wrap;
+}
+
+.project-box {
+    width: 300px;
+    /* border: 2px solid yellow; */
+    height: 60vh;
+    margin: 3%;
+}
+
+.projects-content {
+    height: 100%;
+    border: 1px solid red;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+p {
+    color: black;
+}
+.logo{
+    height: 120px;
+}

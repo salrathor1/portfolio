@@ -1,0 +1,38 @@
+.skills-container {
+    height: 100vh;
+    background-color: whitesmoke;
+
+}
+
+.skills {
+    /* border: 2px solid purple; */
+    display: flex;
+    width: 80%;
+    justify-content: center;
+    margin: 0 10%;
+
+}
+
+.skill-item {
+    height: 30vh;
+    border: 1px solid green;
+    width: 35vh;
+    margin: 4% 3%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+.skill-item-full-width {
+    height: 100px;
+    border: 1px solid green;
+    width: 80%;
+    margin: 0 10%;
+    padding: 3% 0 ;
+    text-align: center;
+    border-radius: 10px;
+
+}
