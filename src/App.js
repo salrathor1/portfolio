@@ -7,7 +7,6 @@ import Projects from './components/Projects';
 import NavBar from './components/NavBar';
 import Skills from './components/Skills';
 
-
 class App extends React.Component {
   //state
 
