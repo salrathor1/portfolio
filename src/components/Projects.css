@@ -2,9 +2,11 @@
     /* border: 2px solid purple; */
     display: flex;
     flex-direction: column;
-    height: 92vh;
-    margin: 0 10%;
+    height: 100%;
+    padding: 0 10%;
     margin-bottom: 8vh;
+    background-color: #eee4e1;
+
 }
 .projects{
     display: flex;
@@ -17,7 +19,7 @@
 
 .project-box {
     width: 300px;
-    border: 1px solid #eee;
+    border: 1px solid #b2967d;
     height: 60vh;
     margin: 3%;
 }

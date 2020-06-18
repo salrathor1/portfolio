@@ -24,7 +24,7 @@ const Projects = () => {
                     <h3 className="center">Dice Game</h3>
                     <p className="center logo"><img class="project-img" src={dicegame} alt="dicegame" /></p>
                     <p className="center">This was a challenge to create a two-player dice game in JS. It's a turn based game where a player needs to get to a score of 20 before rolling a number 1. A player can also hold their score and pass their turn to the other player.</p>
-                    <p className="center"><a href="https://salrathor1.github.io/dicegamev2/" target="_blank" rel="noopener noreferrer">[click to view]</a></p>
+                    <p className="center"><a href="https://salrathor1.github.io/dicegamev2/" target="_blank" rel="noopener noreferrer"git >[click to view]</a></p>
                 </div>
                 <div className="project-box" id="acLogo">
                     <h3 className="center">Cyber Pet</h3>
