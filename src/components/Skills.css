@@ -14,7 +14,7 @@
 }
 
 .skill-item {
-    height: 30vh;
+    height: 25vh;
     border: 1px solid green;
     width: 35vh;
     margin: 4% 3%;
@@ -35,4 +35,9 @@
     text-align: center;
     border-radius: 10px;
 
+}
+
+.skill-img {
+    height: 10vh;
+    width: 10vh;
 }
