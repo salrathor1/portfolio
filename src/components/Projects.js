@@ -61,13 +61,13 @@ const Projects = () => {
                     <h3 className="center">EFL Plus</h3>
                     <p className="center logo"><img src={eflplus} alt="eflplus-logo" /></p>
                     <p className="center">EFL Plus is a social network and recruitment website for the English language teaching community.</p>
-                    <p className="center">[Currently rebuilding]</p>
+                    <p className="center">[Plan to rebuild]</p>
                 </div>
                 <div className="project-box" id="acLogo">
                     <h3 className="center">RemTrek</h3>
                     <p className="center logo" ><img src={remtrek} alt="eflplus-logo" /></p>
                     <p className="center">RemTrek is a collabortive social diary. It's a network that allows people to share their memories.</p>
-                    <p className="center">[Currently rebuilding]</p>
+                    <p className="center">[Plan to rebuild]</p>
                 </div>           
             </div>
         </div>

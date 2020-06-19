@@ -6,14 +6,14 @@ const Projects = () => {
         <div id="Skills" className="skills-container">
             <h1>Skills</h1>
             <div className="skills">
-                <div className="skill-item">HTML + CSS</div>
-                <div className="skill-item">Javascript</div>
-                <div className="skill-item">React</div>
+                <div className="skill-item blue"><h2>HTML + CSS</h2></div>
+                <div className="skill-item yellow"><h2>Javascript</h2></div>
+                <div className="skill-item blue"><h2>React</h2></div>
             </div>
             <div className="skills">
-                <div className="skill-item">Node</div>
-                <div className="skill-item">Python</div>
-                <div className="skill-item">I have previously looked at PHP and C# tutorials (Unity Gaming Engine)</div>
+                <div className="skill-item yellow"><h2>Node/Express</h2></div>
+                <div className="skill-item blue"><h2>Python</h2></div>
+                <div className="skill-item yellow"><h2>I have previously looked at PHP and C# tutorials (Unity Gaming Engine)</h2></div>
             </div>
         </div>
     )
